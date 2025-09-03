@@ -9,6 +9,8 @@ Branch Format:
 2. Core-Java:
 * Arrays (levels - 1, 2),
 * String (levels - 1, 2, 3)
+* Built-in functions
+* Java methods
 * early String Practice problems  
    
 4. OOPS  
